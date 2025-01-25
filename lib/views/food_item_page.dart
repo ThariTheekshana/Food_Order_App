@@ -422,7 +422,7 @@ class _FoodItemPageState extends State<FoodItemPage> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Container(
-                            width: 130.w,
+                            width: 120.w,
                             height: 40.h,
                             decoration: BoxDecoration(
                                 borderRadius: BorderRadius.circular(12.r),
@@ -430,14 +430,14 @@ class _FoodItemPageState extends State<FoodItemPage> {
                             child: Row(
                               children: [
                                 SizedBox(
-                                  width: 20.w,
+                                  width: 10.w,
                                 ),
                                 const Icon(
                                   Icons.remove,
                                   color: Color(0xFF1CAE81),
                                 ),
                                 SizedBox(
-                                  width: 20.w,
+                                  width: 10.w,
                                 ),
                                 Text('1',
                                     style: GoogleFonts.poppins(
@@ -454,7 +454,7 @@ class _FoodItemPageState extends State<FoodItemPage> {
                                   color: Color(0xFF1CAE81),
                                 ),
                                 SizedBox(
-                                  width: 20.w,
+                                  width: 10.w,
                                 ),
                               ],
                             ),

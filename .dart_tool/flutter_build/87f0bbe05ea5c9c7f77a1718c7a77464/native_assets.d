@@ -1,0 +1,1 @@
+ /Users/tharitheekshana/Documents/GitHub/Food_Order_App/.dart_tool/flutter_build/87f0bbe05ea5c9c7f77a1718c7a77464/native_assets.yaml: 
